@@ -3,7 +3,33 @@ guid: 1d490750e23b66745be33cd0a1dfb667
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YESIL_TUP_pHelix2Mat
+    second: {fileID: 4764383238109113681, guid: a5c76d41fbc841a4181df0cfa97d31b1,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YESIL_TUP_pPipe1Mat
+    second: {fileID: 2100000, guid: c8f5e0fc5cf92824aa9da06258936d25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YESIL_TUP_pasted__pCylinder1Mat
+    second: {fileID: 2100000, guid: 685190d5a61ed344eacaceb45f16f073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YESIL_TUP_pasted__pCylinder2Mat
+    second: {fileID: 2100000, guid: 685190d5a61ed344eacaceb45f16f073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pHelix1_YESIL_TUPMat
+    second: {fileID: 2100000, guid: b9c8334682833434f81c749a7b98f06f, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
@@ -34,7 +60,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.002
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -81,7 +107,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
+    globalScale: 0.002
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0

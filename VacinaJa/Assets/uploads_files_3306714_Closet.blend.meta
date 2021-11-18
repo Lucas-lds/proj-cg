@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: BodyMetal1002
-    second: {fileID: 2100000, guid: 50bd62a3eaf281940a3d258d3edd3799, type: 2}
+    second: {fileID: 2100000, guid: 3039c810c9672744a925e17ac90842fa, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -18,12 +18,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Glass
-    second: {fileID: 2100000, guid: 50bd62a3eaf281940a3d258d3edd3799, type: 2}
+    second: {fileID: 2100000, guid: 91a1b05a08a334950a599b252610e8cf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Handle
-    second: {fileID: 2100000, guid: e318ecb29444643f09e7c0d3dea07387, type: 2}
+    second: {fileID: 2100000, guid: c8f5e0fc5cf92824aa9da06258936d25, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
